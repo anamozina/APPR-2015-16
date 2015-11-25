@@ -4,10 +4,19 @@ Avtor: Ana Možina
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
-## Tematika
+## Tematika: Analiza podatkov o prometnih nesrečah v Sloveniji
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V tem projektu bom raziskala in analizirala prometne nesreče v Sloveniji od leta 2000 do 2014, po posameznih regijah, po vrsti ceste, po vrsti udeležencev in odvisnosti od vpliva alkohola.
+
+Podatke sem dobila na naslednjih straneh:
+* Statistični urad RS: http://pxweb.stat.si/pxweb/Database/Ekonomsko/22_transport/07_22220_cestno_prometne_nesrece/07_22220_cestno_prometne_nesrece.asp
+* Ministrstvo za notranje zadeve: http://www.policija.si/index.php/statistika/prometna-varnost
+
+Tu so podatki na voljo v oblikah html, csv, txt, xls,..
+
+Cilji projekta so:
+* na podlagi podatkov bi rada ugotovila, na katerih lokacijah je največ nesreč, kdo jih povzroči in kakšna je odvisnost nesreč od alkohola.
+
 
 ## Program
 
